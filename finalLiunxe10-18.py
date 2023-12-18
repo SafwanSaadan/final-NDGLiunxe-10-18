@@ -305,3 +305,5 @@ questions = [
 num_questions = 43
 selected_questions = random.sample(questions, k=num_questions)  # يقوم باختيار عدد معين من الأسئلة بشكل عشوائي وبدون تكرار
 quiz(selected_questions)
+
+#Eng : Safwan Saadan
